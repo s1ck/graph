@@ -4,6 +4,6 @@ flake8
 isort
 maturin
 mypy
+pandas
 pytest
-pytest-annotate
 tox
